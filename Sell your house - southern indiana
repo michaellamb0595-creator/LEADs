@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Sell Your House Fast | Southern Indiana</title>
+  <style>
+    body { font-family: Arial, sans-serif; background:#f4f4f4; margin:0; padding:20px; }
+    .container { max-width:600px; background:#fff; padding:24px; margin:auto; border-radius:6px; }
+    h1 { margin-top:0; }
+    input, button { width:100%; padding:12px; margin-top:10px; font-size:16px; }
+    button { background:#000; color:#fff; border:none; cursor:pointer; }
+    .phone { text-align:center; font-size:18px; font-weight:bold; margin-top:16px; }
+    .small { font-size:12px; color:#666; text-align:center; margin-top:10px; }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Sell Your House Fast – Southern Indiana</h1>
+    <p>Local buyer. Any condition. No repairs. No agent fees.</p>
+
+    <form action="https://forms.gle/NdT98K2CNZF2H9xJ9?source=landing_page" method="GET">
+      <input type="text" name="name" placeholder="Your Name" required>
+      <input type="tel" name="phone" placeholder="Phone Number" required>
+      <input type="text" name="address" placeholder="Property Address" required>
+      <button type="submit">Get Cash Offer</button>
+    </form>
+
+    <div class="phone">Call or Text: 812-595-8301</div>
+    <div class="small">Southern Indiana • Local Buyer</div>
+  </div>
+</body>
+</html>
